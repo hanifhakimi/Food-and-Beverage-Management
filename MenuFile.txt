@@ -1,0 +1,5 @@
+Burger,5.99,7
+Fries,3.49,6
+Sprite,1.49,6
+Coke,1.49,8
+Pasta,6.99,9
